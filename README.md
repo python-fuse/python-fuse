@@ -1,4 +1,4 @@
-Hello, World! 👋 I'm Umar Muhammad Muktar, alias [@python-fuse](https://github.com/python-fuse)
+# Hello, World! 👋 I'm Umar Muhammad Muktar, alias [@python-fuse](https://github.com/python-fuse)
 
 Welcome to my GitHub repository where I'm passionately exploring the realms of technology through mobile app development and web development with Django. As an aspiring developer, I'm constantly pushing my boundaries and honing my skills in the world of Python and Flutter.
 
@@ -24,8 +24,3 @@ Let's code, collaborate, and create together! 🚀
 ---
 
 Feel free to make any further adjustments or customizations to suit your preferences. Happy coding and learning from your fellow developers!
-
-<!---
-python-fuse/python-fuse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
