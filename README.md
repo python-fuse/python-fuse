@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umar Muktar</h1>
 <h3 align="center">A passionate developer from Nigeria 🇳🇬</h3>
+<p align="center">I'm a passionate full-stack developer with expertise in Python, Django, Web Development, React, Dart, Flutter, Tailwind CSS, and Firebase. <br>I love building robust and scalable applications that solve real-world problems.</p>
 
 - 🔭 I'm currently working on a school social media app [Student Hub](github.com/python-fuse/studenthubreact)
 
