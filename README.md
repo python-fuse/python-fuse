@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available <a href='http://github.com/python-fuse'>here</a>
 
-- 💬 Ask me about **React, Python and Django**
+- 💬 Ask me about **React, Flutter, NextJS, Dart, Python and Django**
 
 - 📫 How to reach me **ucodeswithumar@gmail.com**
 
